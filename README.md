@@ -14,4 +14,4 @@ Have fun with the data!! Play around a bit, and see if there’s anything else y
 mkdir vg-stats cd vg-stats poetry init -n poetry add jupyterlab poetry add pandas poetry shell touch vg-stats.ipynb download vgsales.csv and put somewhere accessible to notebook. Root of project is fine VS Code should recognize your notebook and interactively render Alternately run jupyter lab externally
 
 ## PR
-("https://github.com/faisalabuzaid/vg-stats/pull/1")
+("https://github.com/faisalabuzaid/data-analysis--with-pandas/pull/1")
